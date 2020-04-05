@@ -227,8 +227,9 @@ zcrmsdk
        get
      MODULES
        get
-       post
-       put
+       create
+       update
+       upsert
        delete
        getAllDeletedRecords
        getRecycleBinRecords

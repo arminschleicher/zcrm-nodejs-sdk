@@ -34,10 +34,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arminschleicher/zcrm-nodejs-sdk"
+    "url": "git+https://github.com/arminschleicher/zcrm-nodejs-sdk.git"
   },
   "bugs": {
     "url": "https://github.com/arminschleicher/zcrm-nodejs-sdk/issues"
   },
-  "homepage": "https://github.com/arminschleicher/zcrm-nodejs-sdk#readme"
+  "homepage": "https://github.com/arminschleicher/zcrm-nodejs-sdk#readme",
+  "license": "ISC"
 }
